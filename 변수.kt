@@ -14,4 +14,7 @@ fun main() {
     var e:Float = 1.22f
     println(e)
     //1.22
+    var f:Char = 'g'
+    println(f)
+    //g
 }
