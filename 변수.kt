@@ -20,4 +20,16 @@ fun main() {
     var g:Boolean = false
     println(g)
     //false
+    var h = "김구름이 멍멍멍"
+    println(h)
+    //김구름이 멍멍멍
+    var i = """김구름이
+    멍멍멍
+    멍멍"""
+    println(i)
+    /*
+    김구름이
+    멍멍멍
+    멍멍
+     * /
 }
