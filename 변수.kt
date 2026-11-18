@@ -17,4 +17,7 @@ fun main() {
     var f:Char = 'g'
     println(f)
     //g
+    var g:Boolean = false
+    println(g)
+    //false
 }
