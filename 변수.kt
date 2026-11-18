@@ -1,3 +1,5 @@
 fun main() {
-    var a:Int
+    var a:Int = 122
+    println(a)
+    //122
 }
