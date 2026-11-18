@@ -11,4 +11,7 @@ fun main() {
     var d:Double = 1.22
     println(d)
     //1.22
+    var e:Float = 1.22f
+    println(e)
+    //1.22
 }
