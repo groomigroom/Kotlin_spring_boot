@@ -8,4 +8,7 @@ fun main() {
     var c:Long = 123L
     println(c)
     //123
+    var d:Double = 1.22
+    println(d)
+    //1.22
 }
